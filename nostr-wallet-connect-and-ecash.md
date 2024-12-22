@@ -1,4 +1,4 @@
-# Nostr Wallet Connect and Ecash by Super Testnet
+# Nostr Wallet Connect and Ecash | Super Testnet | bitcoin++ ecash edition | October 2024 | Berlin, Germany
 In this workshop, you'll learn how to add lightning to your project easily by combining ecash with Nostr Wallet Connect. This presentation was recorded in October 2024 in Berlin, Germany during bitcoin++ conference, ecash edition.
 
 [![Nostr Wallet Connect and Ecash](https://img.youtube.com/vi/_y37XTD0xYU/0.jpg)](https://www.youtube.com/watch?v=_y37XTD0xYU)
